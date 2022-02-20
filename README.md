@@ -1,0 +1,1 @@
+# testare_automata_recapitulare
